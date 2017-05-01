@@ -1,1 +1,1 @@
-# Plone Serbian translation chages  
+# Plone Serbian translation changes  
